@@ -1,2 +1,2 @@
-# Jane Translator
+# jane_translator
 Converte emojis em letras.
